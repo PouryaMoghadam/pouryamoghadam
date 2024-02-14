@@ -1,15 +1,12 @@
 Hi 👋 My name is Pourya Moghadam
 ================================
 
-Senior Software Engineer
+Basic Developer
 ------------------------
-
-Creative and self-starting Senior Software Engineer with 9+ years of experience leveraging JavaScript and Python to build responsive websites, PWA apps, and interactive features that drive business growth and improve user experience.
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [p.moghadam@msn.com](mailto:p.moghadam@msn.com)
-* 🚀  I'm currently working on [Trade Guru - Wallex - Phinix](http://wallex.ir)
-* 🧠  I'm learning FastAPi
+* 🧠  I'm learning yet.
 * 🤝  I'm open to collaborating on FastAPi , Pydantic , SQLAlchemy , Pymongo
 * ⚡  😂😎🌊👙🌏🥥🥕
 
